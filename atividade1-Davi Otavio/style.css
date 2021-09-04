@@ -1,0 +1,42 @@
+/* =====  HEADER ===========================*/
+h1 {
+  color: red;
+  font-family: 'Arial', Times, serif;
+  font-size: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(201, 201, 201);
+}
+
+/* =====  MAIN ===========================*/
+
+body {
+  background: black;
+}
+
+.principal {
+  width: 50rem;
+  height: 35rem;
+}
+
+.titulo {
+  color: white;
+}
+
+figcaption {
+  margin-right: 30%;
+  color: white;
+}
+
+img {
+  width: 15rem;
+  height: 10rem;
+}
+
+ul li {
+  display: inline-block;
+}
+
+/* =====  FOOTER ===========================*/ ;
